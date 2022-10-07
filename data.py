@@ -8,14 +8,19 @@ class Data:
 
     buttons = [
         generate_single_button,
-        [InlineKeyboardButton("❣️ sᴜᴩᴩᴏʀᴛ ❣️", url="https://t.me/MyBotsupport"),
-         InlineKeyboardButton(" ᴘʟᴀʏɪɴɢ ɢʀᴏᴜᴘ ", url="https://t.me/BATTLE_GROUP_OF_HEXA"),
+        [InlineKeyboardButton(" sᴜᴩᴩᴏʀᴛ ", url="https://t.me/amanqs"),
+         InlineKeyboardButton(" ɪɴꜱᴛᴀɢʀᴀᴍ ", url="https://instagram.com/bakuangoreng_"),
         ],
     ]
 
     START = """
-ʜI {},
 
-Tʜɪs ɪs {},
-sᴛʀɪɴɢ ɢᴇɴᴇʀᴀᴛᴇ ʙᴏᴛ.ᴛʜɪs ʙᴏᴛ ᴍᴀᴅᴇ ᴡɪᴛʜ ғᴜʟʟ ᴄᴏᴅɪɴɢ ᴀɴᴅ ʙʏ @pokemonmaster856.
-    """
+ Haloㅤㅤ
+━━━━━━━━━━━━━━━━━━━━━━━━
+𝙎𝙩𝙧𝙞𝙣𝙜 𝙈𝙖𝙧𝙮𝙤𝙣𝙤 dibuat untuk 
+Mengambil String Session Telegram!
+━━━━━━━━━━━━━━━━━━━━━━━━
+Privasi vcs,pap tt,chat telegram
+anda akan tetap aman.
+━━━━━━━━━━━━━━━━━━━━━━━━
+By @bakuangoreng   """
